@@ -24,3 +24,10 @@
 >![](https://i.imgur.com/Fjlu7SQ.jpg)
 >![](https://i.imgur.com/hSCIR5V.jpg)
 >![](https://i.imgur.com/xXay8Sp.jpg)
+
+### 4️⃣ "Create a Cat" Choice ###
+> If the user were to choose the "Create a Cat" choice, three pop-ups would appear. Below are the pop-ups that would appear. 
+> 
+>![](https://i.imgur.com/3k961Rt.jpg)
+>![](https://i.imgur.com/nXQm8DA.jpg)
+>![](https://i.imgur.com/ZIDeEwt.jpg)
