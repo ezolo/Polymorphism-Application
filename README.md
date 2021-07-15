@@ -18,4 +18,9 @@
 >![](https://i.imgur.com/OdvtXkw.jpg) 
 >![](https://i.imgur.com/EnhEi4X.jpg)
 
-
+### 3️⃣ "Create a Dog" Choice ###
+> If the user were to choose the "Create a Dog" choice, three pop-ups would appear. Below are the pop-ups that would appear. 
+> 
+>![](https://i.imgur.com/Fjlu7SQ.jpg)
+>![](https://i.imgur.com/hSCIR5V.jpg)
+>![](https://i.imgur.com/xXay8Sp.jpg)
