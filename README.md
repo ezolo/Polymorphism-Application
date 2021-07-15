@@ -13,6 +13,7 @@
 
 ### 2️⃣ "Create an Animal" Choice ###
 > If the user were to choose the "Create an Animal" choice, two pop-ups would appear. Below are the pop-ups that would appear. 
+> 
 >![](https://i.imgur.com/OdvtXkw.jpg) 
 >![](https://i.imgur.com/EnhEi4X.jpg)
 
