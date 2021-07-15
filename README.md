@@ -9,6 +9,7 @@
 # 👩‍🏫 Application Walk Through
 ### 1️⃣ Main Screen ###
 > First users will be brought to the opening screen where they will be allowed to choose one out of the four buttons offered. 
+> 
 ![](https://i.imgur.com/ZDNQQwU.jpg)
 
 ### 2️⃣ "Create an Animal" Choice ###
