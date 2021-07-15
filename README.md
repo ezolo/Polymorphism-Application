@@ -31,3 +31,9 @@
 >![](https://i.imgur.com/3k961Rt.jpg)
 >![](https://i.imgur.com/nXQm8DA.jpg)
 >![](https://i.imgur.com/ZIDeEwt.jpg)
+
+### 5️⃣ Exiting a Form ###
+> If the user has finished using the program and/or is ready to leave the program, they will be able to click the exit button at the bottom of the main screen which will automatically exit the user from the program.
+
+## 😃 Thank you for viewing my application ##
+> I hope you enjoyed the little walk through of the Polymorphism Application. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
